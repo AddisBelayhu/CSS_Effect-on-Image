@@ -56,5 +56,12 @@ img{
 }
 
 
+.box:hover img{
+    transform: rotate(20deg);
+    width: 600px;
+    transition: 1s;
+    bottom: -100px;
+
+}
 
 
