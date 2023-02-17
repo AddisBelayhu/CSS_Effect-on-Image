@@ -63,7 +63,3 @@ img{
 }
 
 
-.box:hover::after, .box:hover::before{
-    width: 0;
-    height: 0;
-}
