@@ -34,17 +34,7 @@ body{
 }
 
 
-.box::before{
-content: '';
-width: 50%;
-height: 50%;
-position:absolute;
-border-radius: 48% 52% 100% 0% / 0% 0% 100% 100%;
-transition: 1s;
-background: #fdec00;
-top: 0;
-left: 0;
-}
+
 
 img{
     width: 300px;
